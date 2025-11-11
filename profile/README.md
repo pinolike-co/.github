@@ -144,6 +144,14 @@
 
 ---
 
+## 👨‍💻 Our Culture
+
+우리는 어떻게 일하고 성장하는지에 대한 문화를 공유합니다.
+
+- [개발팀 문화 (Development Team Culture)](https://www.notion.so/2643f2dfcb3880859132e65d496216c6?source=copy_link)
+
+---
+
 ## 📚 Resources
 
 - [Official Website](https://pinolike.co.kr)
