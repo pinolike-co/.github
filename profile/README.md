@@ -9,7 +9,7 @@
 [🌐 Website](https://pinolike.co.kr) • [📧 Contact](mailto:info@pinolike.co.kr) • [📍 Seoul, Korea](https://maps.google.com/?q=서울시+강서구+양천로+532)
 
 </div>
-ㄷ
+
 ---
 
 ## 🚀 What We Do
@@ -77,12 +77,11 @@
 ### Frameworks
 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white)
 
 ### Deployment & Infrastructure
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ### Security & Monitoring
