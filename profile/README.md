@@ -6,7 +6,7 @@
 
 우리는 고객의 IT 문제를 해결하고, 혁신적인 솔루션을 개발하는 전문 기술 기업입니다.
 
-[🌐 Website](https://pinolike.co.kr) • [📧 Contact](mailto:info@pinolike.co.kr) • [📍 Seoul, Korea](https://maps.google.com/?q=서울시+강서구+양천로+532)
+[🌐 Website](https://pinolike.co.kr) • [📧 Contact](mailto:info@pinolike.co.kr) • [📍 Seoul, Korea](https://maps.app.goo.gl/rqgTgQ2TcxyyUQ8Q6)
 
 </div>
 
@@ -36,7 +36,7 @@
 
 ## 💻 Featured Projects
 
-### 🔹 PINO AVM (Application Visibility & Management)
+### 🔹 AVM (Asset Vulnerability Management)
 
 피노라이크의 자체 개발 자산 취약점 통합 관리 시스템으로, CVE / PoC 코드 기반으로 자산과 취약점 매칭 및 보안 패치가 가능합니다.
 
@@ -97,7 +97,7 @@
 
 | Solution                 | Description                  | Use Case                         |
 | ------------------------ | ---------------------------- | -------------------------------- |
-| **PINO AVM**             | 자산 취약점 통합 관리 시스템 | 자산 취약점 관리 및 보안 강화    |
+| **AVM**                  | 자산 취약점 통합 관리 시스템 | 자산 취약점 관리 및 보안 강화    |
 | **Appgate SDP**          | Software Defined Perimeter   | Zero Trust 네트워크 보안         |
 | **FireMon**              | Network Security Management  | 방화벽 정책 관리 및 최적화       |
 | **Network BlackBox**     | Network Traffic Analysis     | 네트워크 트래픽 분석 및 모니터링 |
@@ -120,7 +120,7 @@
 ```
 📞 Phone: 02-443-3230
 📠 Fax: 02-6953-3237
-🏢 Address: 서울시 강서구 양천로 532 더리브 아너비즈타워 1001호
+🏢 Address: 서울시 성동구 왕십리로 58, 서울숲포휴 709호
 ```
 
 ---
