@@ -6,7 +6,7 @@
 
 우리는 고객의 IT 문제를 해결하고, 혁신적인 솔루션을 개발하는 전문 기술 기업입니다.
 
-[🌐 Website](https://pinolike.co.kr) • [📧 Contact](mailto:info@pinolike.co.kr) • [📍 Seoul, Korea](https://maps.app.goo.gl/rqgTgQ2TcxyyUQ8Q6)
+[🌐 Website](https://www.pinolike.co.kr) • [📧 Contact](mailto:info@pinolike.co.kr) • [📍 Seoul, Korea](https://maps.app.goo.gl/rqgTgQ2TcxyyUQ8Q6)
 
 </div>
 
@@ -154,7 +154,7 @@
 
 ## 📚 Resources
 
-- [Official Website](https://pinolike.co.kr)
+- [Official Website](https://www.pinolike.co.kr)
 - [Documentation](#) _(Coming Soon)_
 - [Tech Blog](#) _(Coming Soon)_
 
@@ -198,7 +198,7 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-pinolike.co.kr-0066cc?style=for-the-badge)](https://pinolike.co.kr)
+[![Website](https://img.shields.io/badge/Website-pinolike.co.kr-0066cc?style=for-the-badge)](https://www.pinolike.co.kr)
 [![Email](https://img.shields.io/badge/Email-Contact_Us-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@pinolike.co.kr)
 [![Phone](https://img.shields.io/badge/Phone-02--443--3230-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:02-443-3230)
 
